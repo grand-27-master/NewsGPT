@@ -8,8 +8,7 @@ NewsGPT is an AI-driven research assistant that extracts, processes, and analyze
 **Efficient Storage** – Uses FAISS for fast vector search  
 
 ## **Installation**  
-
-### **1. Clone the repository**  
+ 
 ```sh
 git clone https://github.com/your-username/NewsGPT.git  
 cd NewsGPT
